@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Project-Diesel/PSX-MAIN/main/PSX-SCRIPT"))()
